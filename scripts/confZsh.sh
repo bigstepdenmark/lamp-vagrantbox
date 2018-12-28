@@ -29,5 +29,8 @@ alias getsize="du -hs"
 alias lines="wc -l"
 ' >> ~/.zshrc
 
+# Disable double verification
+setopt rm_star_silent
+
 # Source .zshrc
 source ~/.bashrc
