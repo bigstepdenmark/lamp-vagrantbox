@@ -12,7 +12,8 @@
   - php7.2-mysql
   - php7.2-xml
   - php7.2-json
-  - php7.2-intl	
+  - php7.2-intl
+  - php7.2-soap
 - MySQL 5.7
 - Apache 2.4
 - NodeJs 11
